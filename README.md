@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+![](http://i.imgur.com/Code_Path_prework.gif)
 <img src='http://i.imgur.com/iOS_tip_calculator/Code_Path_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
